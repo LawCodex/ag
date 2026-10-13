@@ -42,7 +42,7 @@ the official PDF URL.
 
 - **Subsidiary legislation.** The "Caps" volume pages also list the subsidiary legislation
   for each chapter (files `CAP-NNN-…`, uploaded December 2022). They are scanned images
-  without a text layer, so they were not downloaded into the corpus or converted. The
+  without a text layer, so they were not converted. The
   site's separate "Sub-Laws" (Volumes 10–15) and "Statutory" (S.R.O.s by year) sections were
   not fetched.
 - **Bills** and **repealed laws** are not included.
